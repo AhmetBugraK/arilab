@@ -12,7 +12,7 @@ sections:
         filename: hero-academic.png
       text: |-
         <br>
-        **A short description about the arilab.**
+        A short description about the arilab.
     design:
       background:
         gradient_end: '#1976d2'
