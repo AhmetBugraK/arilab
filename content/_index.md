@@ -11,6 +11,7 @@ sections:
       image:
         filename: hero-academic.png
       text: |-
+        <br>
         **A short description about the arilab.**
     design:
       background:
