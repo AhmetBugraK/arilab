@@ -19,7 +19,6 @@ sections:
   - block: about.biography
     id: about
     content:
-      title:
     A short description about the arilab.
   
   - block: collection
