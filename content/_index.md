@@ -116,7 +116,8 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: |-
+
+<html>
           <style>
         .container {
         display: flex;
@@ -205,6 +206,9 @@ sections:
               <h1>godelek[at]ceng.metu.edu.tr</h1>
             </div>
           </div>
+
+</html>
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
