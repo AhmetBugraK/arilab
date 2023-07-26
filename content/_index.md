@@ -10,7 +10,7 @@ sections:
       title: Animal-Robot Interaction Lab
       image:
         filename: hero-academic.png
-      text: |- <br>
+      text: |-
         **A short description about the arilab.**
     design:
       background:
