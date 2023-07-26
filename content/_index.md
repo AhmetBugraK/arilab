@@ -107,8 +107,9 @@ sections:
     design:
       columns: '2'
       view: citation
+
   - block: collection
-    id: talks
+    id: people
     content:
       title: Recent & Upcoming Talks
       filters:
@@ -117,6 +118,7 @@ sections:
     design:
       columns: '2'
       view: compact
+
   - block: tag_cloud
     content:
       title: Popular Topics
