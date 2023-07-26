@@ -116,7 +116,7 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-
+      text: |-
 <html>
           <style>
         .container {
