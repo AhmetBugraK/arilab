@@ -117,11 +117,11 @@ sections:
         }
         
         h1 {
-          font-size: 20px;
+          font-size: 30px;
         }
         
         h2 {
-          font-size: 25px;
+          font-size: 5px;
         }
         </style>
         </head>
