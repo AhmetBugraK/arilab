@@ -102,6 +102,7 @@ sections:
       subtitle:
       text: |-
         <html>
+        <head>
           <style>
           .container {
           display: flex;
@@ -114,11 +115,6 @@ sections:
           height: auto;
         }
         
-        .text {
-          font-size: 15px;
-          padding-left: 15px;
-        }
-        
         h1 {
           font-size: 20px;
         }
@@ -128,7 +124,8 @@ sections:
         }
             
           </style>
-        
+        </head>
+        <body>
         <div class="container">
               <div class="image">
                 <img src="hande.jpeg">
@@ -184,6 +181,7 @@ sections:
                 <h1>godelek[at]ceng.metu.edu.tr</h1>
               </div>
             </div>
+        </body>
         </html>
     design:
       # See Page Builder docs for all section customization options.
