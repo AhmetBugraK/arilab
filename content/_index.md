@@ -101,10 +101,11 @@ sections:
       title: People
       subtitle:
       text: |-
+        <!DOCTYPE html>
         <html>
         <head>
-          <style>
-          .container {
+        <style>
+        .container {
           display: flex;
           align-items: center;
           justify-content: left
@@ -122,10 +123,10 @@ sections:
         h2 {
           font-size: 25px;
         }
-            
-          </style>
+        </style>
         </head>
         <body>
+        
         <div class="container">
               <div class="image">
                 <img src="hande.jpeg"
@@ -191,8 +192,10 @@ sections:
                 <h1>godelek[at]ceng.metu.edu.tr</h1>
               </div>
             </div>
+        
         </body>
         </html>
+    
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
