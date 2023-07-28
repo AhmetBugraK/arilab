@@ -98,7 +98,7 @@ sections:
   - block: markdown
     id: people
     content:
-      title: My title
+      title: People
       subtitle:
       text: |-
         Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
@@ -119,10 +119,6 @@ sections:
           padding-left: 15px;
         }
         
-        t {
-          font-size: 40px;
-        }
-        
         h1 {
           font-size: 20px;
         }
@@ -132,8 +128,6 @@ sections:
         }
             
           </style>
-        
-        <t>People<t>
         
         <div class="container">
               <div class="image">
