@@ -104,7 +104,7 @@ sections:
         <!DOCTYPE html>
         <html>
         <head>
-        <style>
+        <style type="text/css">
         .container {
           display: flex;
           align-items: center;
