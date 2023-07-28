@@ -128,7 +128,9 @@ sections:
         <body>
         <div class="container">
               <div class="image">
-                <img src="hande.jpeg">
+                <img src="hande.jpeg"
+                     width: "200px"
+                     height: "auto" />
               </div>
               <div class="text">
                 <h2>Hande Alemdar</h2>
@@ -139,7 +141,9 @@ sections:
         
         <div class="container">
               <div class="image">
-                <img src="okan.jpeg">
+                <img src="okan.jpeg"
+                     width: "200px"
+                     height: "auto" />
               </div>
               <div class="text">
                 <h2>Okan Can Arslan</h2>
@@ -150,7 +154,9 @@ sections:
         
         <div class="container">
               <div class="image">
-                <img src="babur.jpeg">
+                <img src="babur.jpeg"
+                     width: "200px"
+                     height: "auto" />
               </div>
               <div class="text">
                 <h2>Babür Erdem</h2>
@@ -162,7 +168,9 @@ sections:
             
         <div class="container">
               <div class="image">
-                <img src="yavuz.jpg">
+                <img src="yavuz.jpg"
+                     width: "200px"
+                     height: "auto" />
               </div>
               <div class="text">
                 <h2>Mustafa Yavuz Kara</h2>
@@ -173,7 +181,9 @@ sections:
         
         <div class="container">
               <div class="image">
-                <img src="oguz.jpeg">
+                <img src="oguz.jpeg"
+                     width: "200px"
+                     height: "auto" />
               </div>
               <div class="text">
                 <h2>Oğuz Gödelek</h2>
