@@ -102,6 +102,7 @@ sections:
       subtitle:
       text: |-
         Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        <html>
           <style>
           .container {
           display: flex;
@@ -131,7 +132,7 @@ sections:
         
         <div class="container">
               <div class="image">
-                <img src="hande.jpeg">
+                <img src="people.media/hande.jpeg">
               </div>
               <div class="text">
                 <h2>Hande Alemdar</h2>
@@ -142,7 +143,7 @@ sections:
         
         <div class="container">
               <div class="image">
-                <img src="okan.jpeg">
+                <img src="people.media/okan.jpeg">
               </div>
               <div class="text">
                 <h2>Okan Can Arslan</h2>
@@ -153,7 +154,7 @@ sections:
         
         <div class="container">
               <div class="image">
-                <img src="babur.jpeg">
+                <img src="people.media/babur.jpeg">
               </div>
               <div class="text">
                 <h2>Babür Erdem</h2>
@@ -165,7 +166,7 @@ sections:
             
         <div class="container">
               <div class="image">
-                <img src="yavuz.jpg">
+                <img src="people.media/yavuz.jpg">
               </div>
               <div class="text">
                 <h2>Mustafa Yavuz Kara</h2>
@@ -176,7 +177,7 @@ sections:
         
         <div class="container">
               <div class="image">
-                <img src="oguz.jpeg">
+                <img src="people.media/oguz.jpeg">
               </div>
               <div class="text">
                 <h2>Oğuz Gödelek</h2>
@@ -184,6 +185,7 @@ sections:
                 <h1>godelek[at]ceng.metu.edu.tr</h1>
               </div>
             </div>
+        </html>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
