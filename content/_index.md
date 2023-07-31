@@ -129,9 +129,9 @@ sections:
                 <img src="hande.jpeg" width="200" height="100">
               </div>
               <div class="text">
-                <h2> Hande Alemdar</h2>
-                <h2> Associate Professor</h2>
-                <h2> alemdar[at]metu.edu.tr</h2>
+                <h2>&nbsp; Hande Alemdar</h2>
+                <h2>&nbsp; Associate Professor</h2>
+                <h2>&nbsp; alemdar[at]metu.edu.tr</h2>
               </div>
             </div>
         <br>
@@ -140,9 +140,9 @@ sections:
                 <img src="okan.jpeg" width="200" height="100">
               </div>
               <div class="text">
-                <h2> Okan Can Arslan</h2>
-                <h2> Graduate Assistant</h2>
-                <h2> okarslan[at]metu.edu.tr</h2>
+                <h2>&nbsp; Okan Can Arslan</h2>
+                <h2>&nbsp; Graduate Assistant</h2>
+                <h2>&nbsp; okarslan[at]metu.edu.tr</h2>
               </div>
             </div>
         <br>
@@ -151,10 +151,10 @@ sections:
                 <img src="babur.jpeg" width="200" height="100">
               </div>
               <div class="text">
-                <h2> Babür Erdem</h2>
-                <h2> PhD Candidate, Researcher</h2>
-                <h2> ebabur[at]metu.edu.tr</h2>
-                <h2> Personal blog: &nbsp; <a href="https://blog.metu.edu.tr/ebabur/" target="_blank" rel="noreferrer"> blog.metu.edu.tr/ebabur/ </a> </h2>
+                <h2>&nbsp; Babür Erdem</h2>
+                <h2>&nbsp; PhD Candidate, Researcher</h2>
+                <h2>&nbsp; ebabur[at]metu.edu.tr</h2>
+                <h2>&nbsp; Personal blog: &nbsp; <a href="https://blog.metu.edu.tr/ebabur/" target="_blank" rel="noreferrer"> blog.metu.edu.tr/ebabur/ </a> </h2>
               </div>
             </div>
         <br>    
@@ -163,9 +163,9 @@ sections:
                 <img src="yavuz.jpg" width="200" height="100">
               </div>
               <div class="text">
-                <h2> Mustafa Yavuz Kara</h2>
-                <h2> MSc Student</h2>
-                <h2> myk[at]ceng.metu.edu.tr</h2>
+                <h2>&nbsp; Mustafa Yavuz Kara</h2>
+                <h2>&nbsp; MSc Student</h2>
+                <h2>&nbsp; myk[at]ceng.metu.edu.tr</h2>
               </div>
             </div>
         <br>
@@ -174,9 +174,9 @@ sections:
                 <img src="oguz.jpeg" width="200" height="100">
               </div>
               <div class="text">
-                <h2> Oğuz Gödelek</h2>
-                <h2> MSc Student</h2>
-                <h2> godelek[at]ceng.metu.edu.tr</h2>
+                <h2>&nbsp; Oğuz Gödelek</h2>
+                <h2>&nbsp; MSc Student</h2>
+                <h2>&nbsp; godelek[at]ceng.metu.edu.tr</h2>
               </div>
             </div>
         
