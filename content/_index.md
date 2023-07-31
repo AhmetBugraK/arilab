@@ -102,7 +102,7 @@ sections:
     content:
       title: People
       subtitle:
-      text: |-
+      text:
         sections:
             - block: hero
               content:
