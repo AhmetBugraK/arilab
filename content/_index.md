@@ -102,8 +102,7 @@ sections:
     content:
       title: People
       subtitle:
-      text:
-        sections:
+      sections:
             - block: hero
               content:
                 title: Hande
