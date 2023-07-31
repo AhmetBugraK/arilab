@@ -117,10 +117,6 @@ sections:
           height: auto;
         }
         
-        h1 {
-          font-size: 30px;
-        }
-        
         h2 {
           font-size: 5px;
         }
@@ -134,8 +130,8 @@ sections:
               </div>
               <div class="text">
                 <h2>Hande Alemdar</h2>
-                <h1>Associate Professor</h1>
-                <h1>alemdar[at]metu.edu.tr</h1>
+                <h2>Associate Professor</h2>
+                <h2>alemdar[at]metu.edu.tr</h2>
               </div>
             </div>
         
@@ -145,8 +141,8 @@ sections:
               </div>
               <div class="text">
                 <h2>Okan Can Arslan</h2>
-                <h1>Graduate Assistant</h1>
-                <h1>okarslan[at]metu.edu.tr</h1>
+                <h2>Graduate Assistant</h2>
+                <h2>okarslan[at]metu.edu.tr</h2>
               </div>
             </div>
         
@@ -156,9 +152,9 @@ sections:
               </div>
               <div class="text">
                 <h2>Babür Erdem</h2>
-                <h1>PhD Candidate, Researcher</h1>
-                <h1>ebabur[at]metu.edu.tr</h1>
-                <h1>Personal blog: &nbsp; <a href="https://blog.metu.edu.tr/ebabur/" target="_blank" rel="noreferrer"> blog.metu.edu.tr/ebabur/ </a> </h1>
+                <h2>PhD Candidate, Researcher</h2>
+                <h2>ebabur[at]metu.edu.tr</h2>
+                <h2>Personal blog: &nbsp; <a href="https://blog.metu.edu.tr/ebabur/" target="_blank" rel="noreferrer"> blog.metu.edu.tr/ebabur/ </a> </h2>
               </div>
             </div>
             
@@ -168,8 +164,8 @@ sections:
               </div>
               <div class="text">
                 <h2>Mustafa Yavuz Kara</h2>
-                <h1>MSc Student</h1>
-                <h1>myk[at]ceng.metu.edu.tr</h1>
+                <h2>MSc Student</h2>
+                <h2>myk[at]ceng.metu.edu.tr</h2>
               </div>
             </div>
         
@@ -179,8 +175,8 @@ sections:
               </div>
               <div class="text">
                 <h2>Oğuz Gödelek</h2>
-                <h1>MSc Student</h1>
-                <h1>godelek[at]ceng.metu.edu.tr</h1>
+                <h2>MSc Student</h2>
+                <h2>godelek[at]ceng.metu.edu.tr</h2>
               </div>
             </div>
         
