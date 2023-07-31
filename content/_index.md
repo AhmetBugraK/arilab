@@ -97,42 +97,37 @@ sections:
       view: citation
 
 
-  - block: markdown
+  - block: collection
     id: people
     content:
-      title: People
-      subtitle:
-      sections:
-        - block: hero
-          content:
-            title: Hande
-            image:
-              filename: hande.jpeg
-            text: |-
-              <br>
-              A short description about the arilab.
-            design:
-              background:
-                gradient_end: '#1976d2'
-                gradient_start: '#004ba0'
-                text_color_light: true
-        - block: hero
-          content:
-            title: Babur
-            image:
-              filename: hande.jpeg
-            text: |-
-              <br>
-              A short description about the arilab.
-            design:
-              background:
-                gradient_end: '#1976d2'
-                gradient_start: '#004ba0'
-                text_color_light: true  
-    
+      title: Recent Posts
+      subtitle: ''
+      text: 'Check out my recent blog posts below!'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
+      # Choose a listing view
+      view: compact
+      # Choose single or dual column layout
       columns: '1'
 
       
