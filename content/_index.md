@@ -68,6 +68,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Artificial Intelligence
+          tag: Artificial Intelligence
         - name: Other
           tag: Demo
     design:
