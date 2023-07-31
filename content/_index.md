@@ -101,104 +101,11 @@ sections:
       title: People
       subtitle:
       text: |-
-        <html>
-        <head>
-        <style type="text/css">
-        .container {
-          display: flex;
-          align-items: center;
-          justify-content: left
-        }
-        
-        img {
-          width: 200px;
-          height: auto;
-        }
-        
-        h1 {
-          font-size: 30px;
-        }
-        
-        h2 {
-          font-size: 5px;
-        }
-        </style>
-        </head>
-        <body>
-        
-        <div class="container">
-              <div class="image">
-                <img src="hande.jpeg"
-                     width: "200px"
-                     height: "auto" />
-              </div>
-              <div class="text">
-                <h2>Hande Alemdar</h2>
-                <h1>Associate Professor</h1>
-                <h1>alemdar[at]metu.edu.tr</h1>
-              </div>
-            </div>
-        
-        <div class="container">
-              <div class="image">
-                <img src="okan.jpeg"
-                     width: "200px"
-                     height: "auto" />
-              </div>
-              <div class="text">
-                <h2>Okan Can Arslan</h2>
-                <h1>Graduate Assistant</h1>
-                <h1>okarslan[at]metu.edu.tr</h1>
-              </div>
-            </div>
-        
-        <div class="container">
-              <div class="image">
-                <img src="babur.jpeg"
-                     width: "200px"
-                     height: "auto" />
-              </div>
-              <div class="text">
-                <h2>Babür Erdem</h2>
-                <h1>PhD Candidate, Researcher</h1>
-                <h1>ebabur[at]metu.edu.tr</h1>
-                <h1>Personal blog: &nbsp; <a href="https://blog.metu.edu.tr/ebabur/" target="_blank" rel="noreferrer"> blog.metu.edu.tr/ebabur/ </a> </h1>
-              </div>
-            </div>
-            
-        <div class="container">
-              <div class="image">
-                <img src="yavuz.jpg"
-                     width: "200px"
-                     height: "auto" />
-              </div>
-              <div class="text">
-                <h2>Mustafa Yavuz Kara</h2>
-                <h1>MSc Student</h1>
-                <h1>myk[at]ceng.metu.edu.tr</h1>
-              </div>
-            </div>
-        
-        <div class="container">
-              <div class="image">
-                <img src="oguz.jpeg"
-                     width: "200px"
-                     height: "auto" />
-              </div>
-              <div class="text">
-                <h2>Oğuz Gödelek</h2>
-                <h1>MSc Student</h1>
-                <h1>godelek[at]ceng.metu.edu.tr</h1>
-              </div>
-            </div>
-        
-        </body>
-        </html>
-    
+        any text
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
 
       
   - block: contact
