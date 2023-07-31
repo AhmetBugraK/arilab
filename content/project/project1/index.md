@@ -12,6 +12,7 @@ image:
   caption: Photo by Babur
   focal_point: Smart
 
-  Detailed explanation of the project.
+---
 
-  ---
+  Detailed explanation of the project.
+  
