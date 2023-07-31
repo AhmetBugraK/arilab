@@ -118,7 +118,7 @@ sections:
         }
         
         h2 {
-          font-size: 5px;
+          font-size: 4px;
         }
         </style>
         </head>
@@ -134,7 +134,7 @@ sections:
                 <h2>alemdar[at]metu.edu.tr</h2>
               </div>
             </div>
-        
+        <br>
         <div class="container">
               <div class="image">
                 <img src="okan.jpeg" width="200" height="100">
@@ -145,7 +145,7 @@ sections:
                 <h2>okarslan[at]metu.edu.tr</h2>
               </div>
             </div>
-        
+        <br>
         <div class="container">
               <div class="image">
                 <img src="babur.jpeg" width="200" height="100">
@@ -157,7 +157,7 @@ sections:
                 <h2>Personal blog: &nbsp; <a href="https://blog.metu.edu.tr/ebabur/" target="_blank" rel="noreferrer"> blog.metu.edu.tr/ebabur/ </a> </h2>
               </div>
             </div>
-            
+        <br>    
         <div class="container">
               <div class="image">
                 <img src="yavuz.jpg" width="200" height="100">
@@ -168,7 +168,7 @@ sections:
                 <h2>myk[at]ceng.metu.edu.tr</h2>
               </div>
             </div>
-        
+        <br>
         <div class="container">
               <div class="image">
                 <img src="oguz.jpeg" width="200" height="100">
