@@ -8,15 +8,7 @@ authors:
 - Jose L. Agosto
 - Tugrul Giray
 - Hande Alemdar
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: "May 17, 2023"
+date: "2023-05-17T00:00:00Z"
 doi: "https://doi.org/10.1101/2023.05.17.541141"
 
 
