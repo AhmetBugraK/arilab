@@ -103,7 +103,21 @@ sections:
       title: People
       subtitle:
       text: |-
-        any text
+        sections:
+            - block: hero
+              content:
+                title: Hande
+                image:
+                  filename: hero-academic.png
+                text: |-
+                  <br>
+                  A short description about the arilab.
+              design:
+                background:
+                  gradient_end: '#1976d2'
+                  gradient_start: '#004ba0'
+                  text_color_light: true
+    
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
