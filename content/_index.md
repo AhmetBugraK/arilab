@@ -74,10 +74,10 @@ sections:
           tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
 
 
   - block: collection
