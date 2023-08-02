@@ -116,7 +116,7 @@ sections:
         <br>
         <div class="container1">
               <div class="image">
-                <img src="/assets/media/people/hande.jpg" width="200" height="100">
+                <img src="hande.jpeg" width="200" height="100">
               </div>
               <div class="text">
                 <h2>&nbsp; Hande Alemdar</h2>
@@ -127,7 +127,7 @@ sections:
         <br>
         <div class="container1">
               <div class="image">
-                <img src="okan.jpg" width="200" height="100">
+                <img src="okan.jpeg" width="200" height="100">
               </div>
               <div class="text">
                 <h2>&nbsp; Okan Can Arslan</h2>
@@ -138,7 +138,7 @@ sections:
         <br>
         <div class="container1">
               <div class="image">
-                <img src="/assets/people/babur.jpg" width="200" height="100">
+                <img src="babur.jpeg" width="200" height="100">
               </div>
               <div class="text">
                 <h2>&nbsp; Babür Erdem</h2>
