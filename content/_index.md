@@ -104,7 +104,13 @@ sections:
       subtitle: ''
       text: |-
         <html>
-        
+        <head>
+        .container {
+          display: flex;
+          align-items: center;
+          justify-content: left
+        }
+        </head>
         <body>
         
         <div class="container">
