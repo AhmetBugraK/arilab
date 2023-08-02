@@ -104,24 +104,7 @@ sections:
       subtitle: ''
       text: |-
         <html>
-        <head>
-        <style type="text/css">
-        .container {
-          display: flex;
-          align-items: center;
-          justify-content: left
-        }
         
-        img {
-          width: 200px;
-          height: auto;
-        }
-        
-        h2 {
-          font-size: 3px;
-        }
-        </style>
-        </head>
         <body>
         
         <div class="container">
