@@ -104,16 +104,19 @@ sections:
       subtitle: ''
       text: |-
         <html>
+        
         <head>
-        .container {
+        <style>
+        .container1 {
           display: flex;
           align-items: center;
           justify-content: left
         }
+        </style>
         </head>
         <body>
         
-        <div class="container">
+        <div class="container1">
               <div class="image">
                 <img src="hande.jpeg" width="200" height="100">
               </div>
@@ -124,7 +127,7 @@ sections:
               </div>
             </div>
         <br>
-        <div class="container">
+        <div class="container1">
               <div class="image">
                 <img src="okan.jpeg" width="200" height="100">
               </div>
@@ -135,7 +138,7 @@ sections:
               </div>
             </div>
         <br>
-        <div class="container">
+        <div class="container1">
               <div class="image">
                 <img src="babur.jpeg" width="200" height="100">
               </div>
@@ -147,7 +150,7 @@ sections:
               </div>
             </div>
         <br>    
-        <div class="container">
+        <div class="container1">
               <div class="image">
                 <img src="yavuz.jpg" width="200" height="100">
               </div>
@@ -158,7 +161,7 @@ sections:
               </div>
             </div>
         <br>
-        <div class="container">
+        <div class="container1">
               <div class="image">
                 <img src="oguz.jpeg" width="200" height="100">
               </div>
