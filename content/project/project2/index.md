@@ -1,6 +1,6 @@
 ---
-title: Queen Bee
-summary: Determination of the Queen Bee Feeding and Behavioral Pattern Interaction between the Queen and Worker Bees Acting on the Queen Bees Health
+title: Determination of the Queen Bee Feeding and Behavioral Pattern Interaction between the Queen and Worker Bees Acting on the Queen Bees Health
+summary: ''
 tags:
   - Other
 date: '2022-07-01T00:00:00Z'
