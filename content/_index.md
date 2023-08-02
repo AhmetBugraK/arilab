@@ -115,9 +115,7 @@ sections:
         <body>
         <br>
         <div class="container1">
-              <div class="image">
-                <img src="hande.jpeg" width="200" height="100">
-              </div>
+              <img src="hande.jpeg" width="200" height="auto">
               <div class="text">
                 <h2>&nbsp; Hande Alemdar</h2>
                 <h2>&nbsp; Associate Professor</h2>
@@ -126,9 +124,7 @@ sections:
             </div>
         <br>
         <div class="container1">
-              <div class="image">
-                <img src="okan.jpeg" width="200" height="100">
-              </div>
+              <img src="okan.jpeg" width="200" height="auto">
               <div class="text">
                 <h2>&nbsp; Okan Can Arslan</h2>
                 <h2>&nbsp; Graduate Assistant</h2>
@@ -137,9 +133,7 @@ sections:
             </div>
         <br>
         <div class="container1">
-              <div class="image">
-                <img src="babur.jpeg" width="200" height="100">
-              </div>
+              <img src="babur.jpeg" width="200" height="auto">
               <div class="text">
                 <h2>&nbsp; Babür Erdem</h2>
                 <h2>&nbsp; PhD Candidate, Researcher</h2>
@@ -149,9 +143,7 @@ sections:
             </div>
         <br>    
         <div class="container1">
-              <div class="image">
-                <img src="yavuz.jpg" width="200" height="100">
-              </div>
+              <img src="yavuz.jpg" width="200" height="auto">
               <div class="text">
                 <h2>&nbsp; Mustafa Yavuz Kara</h2>
                 <h2>&nbsp; MSc Student</h2>
@@ -160,9 +152,7 @@ sections:
             </div>
         <br>
         <div class="container1">
-              <div class="image">
-                <img src="oguz.jpeg" width="200" height="100">
-              </div>
+              <img src="oguz.jpeg" width="200" height="auto">
               <div class="text">
                 <h2>&nbsp; Oğuz Gödelek</h2>
                 <h2>&nbsp; MSc Student</h2>
