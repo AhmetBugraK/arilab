@@ -66,8 +66,6 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
         - name: Artificial Intelligence
           tag: Artificial Intelligence
         - name: Other
@@ -115,7 +113,7 @@ sections:
         </style>
         </head>
         <body>
-        
+        <br>
         <div class="container1">
               <div class="image">
                 <img src="hande.jpeg" width="200" height="100">
