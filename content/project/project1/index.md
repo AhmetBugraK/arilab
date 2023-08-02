@@ -1,6 +1,6 @@
 ---
 title: Monitoring of Honey Bee Colonies with Computer Vision and Environmental Sensors and Determination of Hive Health with Artificial Intelligence
-summary: ''
+summary: ' '
 tags:
   - Artificial Intelligence
 date: '2022-12-01T00:00:00Z'
